@@ -1,2 +1,2 @@
 # Plant-Disease-Detection
-detects diseased plants using RCNN algoritm
+Detects diseased plants using RCNN algoritm
